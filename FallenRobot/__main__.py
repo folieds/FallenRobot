@@ -400,7 +400,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/outlawbots"
+                            text="ᴜᴩᴅᴀᴛᴇs", url="https://t.me/outlawbots"
                         ),
                     ],
                     [
